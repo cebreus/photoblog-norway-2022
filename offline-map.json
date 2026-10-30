@@ -1,0 +1,56 @@
+{
+  "version": 3,
+  "plannerVersion": 1,
+  "snapshotId": "b02c91d2f0b9fbd1b83d6dbcb3231a8a684763cd634c8700dbcb16ed92048985",
+  "gallery": "norway-2022",
+  "updatedAt": "2026-10-30T14:11:24.916Z",
+  "locationsSha256": "3ad36ec21a05257d01392d3899dc39dc2ab4d3d93844d182a943b87cb0ebf364",
+  "byZoom": {
+    "0": 1,
+    "1": 4,
+    "2": 16,
+    "3": 9,
+    "4": 12,
+    "5": 19,
+    "6": 32,
+    "7": 52,
+    "8": 90,
+    "9": 153,
+    "10": 238,
+    "11": 711,
+    "12": 962,
+    "13": 1198,
+    "14": 2627,
+    "15": 3254,
+    "16": 3911,
+    "17": 4743
+  },
+  "layers": {
+    "street": {
+      "format": "png",
+      "extension": "png",
+      "mimeType": "image/png",
+      "path": "map-tiles-street",
+      "attribution": "© CARTO; © OpenStreetMap contributors",
+      "offlinePermissionEvidence": "Offline distribution approved by the repository owner on 2026-10-18 for this personal photoblog; no separate provider licence document is on file.",
+      "sourceId": "carto-voyager-legacy-trial",
+      "maxZoom": 17,
+      "expected": 18032,
+      "sha256": "5002732bc64452e706332e866dab94547d0b13aab4bda58ccff2779ea885e3e5",
+      "acquiredAt": "2026-10-09T20:52:26.957Z"
+    },
+    "satellite": {
+      "format": "jpeg",
+      "extension": "jpg",
+      "mimeType": "image/jpeg",
+      "path": "map-tiles-satellite",
+      "attribution": "© Esri — Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community",
+      "offlinePermissionEvidence": "Offline distribution approved by the repository owner on 2026-10-18 for this personal photoblog; no separate provider licence document is on file.",
+      "sourceId": "esri-world-imagery-legacy-trial",
+      "maxZoom": 16,
+      "expected": 13289,
+      "sha256": "1d77c5f3549734b66c9f02174f52c8463c276d99cef109471d1a43015d7827d6",
+      "acquiredAt": "2026-10-09T20:52:26.957Z"
+    }
+  }
+}
